@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="Twitter Cover" src="https://github.com/user-attachments/assets/6586a76e-c6be-45e4-b525-e230aa45d779" />
+
+
 LinkiSwap is an intent-powered financial execution network designed to simplify how people interact with digital assets across blockchain ecosystems.
 
 Today's digital asset landscape is fragmented. Users must navigate multiple wallets, chains, bridges, exchanges, and payment providers just to complete simple financial actions.

@@ -90,7 +90,7 @@ Select Chain
 Users simply state:
 
 ```text
-Send $100 to Sarah
+swap 100 USDC on Base for ETH on Arbitrum
 ```
 
 LinkiSwap determines the best way to execute that request.
